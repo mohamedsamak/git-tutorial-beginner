@@ -5,3 +5,5 @@ the best ways are:
 - sleep
 - code
 - repeat
+## Summary
+It's a nice repo 
