@@ -1,5 +1,5 @@
 # The best github repo
-this is readme 
+This is readme 
 the best ways are:
 - eat
 - sleep
